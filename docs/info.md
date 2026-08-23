@@ -13,8 +13,8 @@ Es un sumador de 4bits con acarreo de salida.
 
 ## How to test
 
-Explain how to use your project
+Ubique la entrada A en los bits 3..0 de ui_in y B en los bits 7..4, la salida sera en uo_out[4..0]
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No requiere hardware de salida, solo LEDs en uo_out[4..0]
